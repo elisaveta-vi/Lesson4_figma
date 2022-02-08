@@ -1,0 +1,21 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap");
+
+body {
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	color: #424551;
+	line-height: 1.6;
+}
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+	color: #1e212c;
+}
+.lid {
+	font-weight: 700;
+	font-size: 20px;
+	color: #1e212c;
+	line-height: 1.5;
+}
